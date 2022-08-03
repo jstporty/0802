@@ -8,6 +8,7 @@ public class ArrayDemo {
 
 		Arrays.sort(array);
 		System.out.println("After AscdingSorting");
+		
 		System.out.println(Arrays.toString(array));
 	
 		System.out.println("After DescdingSorting");

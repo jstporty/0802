@@ -4,5 +4,5 @@ public class Student {
 	int age, eng, kor, mat, tot;
 	double avg;
 	char grade;
-
+	
 }
